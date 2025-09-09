@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pytesseract
+python-dotenv
+requests
+azure-storage-blob
+psycopg2-binary
+Pillow
+pdf2image
