@@ -5,6 +5,7 @@ RUN apt-get update && \
     apt-get install -y --no-install-recommends \
         tesseract-ocr \
         tesseract-ocr-eng \
+        tesseract-ocr-ara \
         libtesseract-dev \
         poppler-utils \
         gcc \
