@@ -7,3 +7,10 @@ azure-storage-blob
 psycopg2-binary
 Pillow
 pdf2image
+python-multipart 
+pillow 
+pytesseract 
+opencv-python
+opencv-python-headless 
+numpy
+PyYAML
