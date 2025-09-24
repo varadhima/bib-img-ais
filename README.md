@@ -2,6 +2,9 @@
 
 A FastAPI-based OCR service using Tesseract OCR for extracting text from images and PDFs. Deployed with Docker and Azure.
 
+# Image/Video Verification API
+FastAPI service for verifying images or video frames against a reference image.
+
 ## Features
 - Upload images and PDFs for text extraction
 - FastAPI endpoints with Swagger UI
